@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/price.dir/main.cpp.o -o price 
