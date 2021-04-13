@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/palindromfilter.dir/main.cpp.o -o palindromfilter 

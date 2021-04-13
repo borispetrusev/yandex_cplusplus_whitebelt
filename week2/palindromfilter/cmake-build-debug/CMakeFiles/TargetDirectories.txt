@@ -1,0 +1,3 @@
+/home/boris/CLionProjects/whitebelt/week2/palindromfilter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/boris/CLionProjects/whitebelt/week2/palindromfilter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/boris/CLionProjects/whitebelt/week2/palindromfilter/cmake-build-debug/CMakeFiles/palindromfilter.dir
