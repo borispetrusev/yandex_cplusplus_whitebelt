@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boris/CLionProjects/whitebelt/week2/busstop2/main.cpp
+iostream
+-
+map
+-
+string
+-
+vector
+-
+
