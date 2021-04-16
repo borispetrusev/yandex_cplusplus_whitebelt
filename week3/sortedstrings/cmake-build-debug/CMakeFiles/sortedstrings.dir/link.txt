@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sortedstrings.dir/main.cpp.o -o sortedstrings 
