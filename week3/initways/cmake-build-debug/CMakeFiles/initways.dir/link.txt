@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/initways.dir/main.cpp.o -o initways 
